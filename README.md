@@ -11,3 +11,4 @@ and a loop tasks for all images in my directory
 
 and a quit task to stop the code at any time and analyze current image.
 
+<img width="1570" height="2194" alt="graphviz" src="https://github.com/user-attachments/assets/0e70e66c-89b2-49b3-aca7-cf61ddbd0300" />
